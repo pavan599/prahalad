@@ -25,4 +25,4 @@ and start the Map reduce application to submit the job to hadoop
 
 hadoop jar ./target/weather-1.0.jar sample_weather.txt  dataOutput
 
-This is a Test edit by Teja
+
